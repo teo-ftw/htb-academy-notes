@@ -28,3 +28,13 @@ Examples of active learning: doing exercises and practicing with the information
 *The art, after all, is not to get some flag but to find the way to it.*
 
 **Note:** I found the quote above this note to be very inspirational.
+
+## Talent
+
+People are not born with talent or skills. They learn through repeated confrontations with a subject matter and develop neural pathways that allow them to excel in what it is they do.
+
+## Way of Learning
+
+*A problem is an emotional state. Without emotions, it is just a situation.*
+
+**Important:** In order to succeed, we must have a *clearly defined* goal in mind. I.e. **Know your goal.**
