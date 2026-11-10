@@ -22,3 +22,7 @@ These are the learning activiteis presented in the learning pyramid sorted by th
 ## History of the Learning Pyramid
 
 The earliest representation is believed to originate in a 1954 book called "Audio-Visual Methods in Teaching."
+
+## My Research Process
+
+My research process consists of visiting the *Wikipedia* article written on this topic and extracting the most useful information for the scope of this exercise.
