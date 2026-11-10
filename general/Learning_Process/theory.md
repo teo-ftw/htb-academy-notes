@@ -65,3 +65,38 @@ In order to stay *motivated,* we must recognize even the most minor of successes
 *Progress is noticeable when the question that tortured us has lost its meaning.*
 
 **Important:** Take breaks in order to not burn out and allow the information you learn to have an effect. Otherwise, you will get stuck.
+
+## The Brain
+
+The myth that we only use 5-10% of our brain is not true and the speed with which we learn something doesn't determine our intelligence.
+
+### The Theory of Thought
+
+*A thought is an individual process (action/reaction) to one or more influences (internal/external) in which information is interpreted and linked inwardly according to our personal methodology (developed through our existing lifetimes).*
+
+### Conscious Thoughts
+
+*Consciousness describes the totality of all those mental processes by which we become aware of the external and our internal world with active observation. Therefore, when we actively observe that we are looking at a monitor full of text and can decide to change the situation if necessary and intentionally look elsewhere, we are in consciousness.*
+
+## The Will
+
+*In psychology, will is considered a descriptive construct that presupposes a conscious decision to act, and thus, it is primarily associated with rational action.*
+
+*From a philosophical point of view, will is defined as deciding on a particular type of action based on the motives for acting consciously.*
+
+**Important:** *Fear is a state and the product of our imagination of the future and its consequences where the present is suppressed.*
+
+- *Have we already worked through all the material?* (No.)
+- *Have we already seen what is being taught and how it is being taught?* (No.)
+- *Do we already have to have the skills that are expected of us?* (No.)
+
+## The Goal
+
+*The term goal refers to a state that lies in the future, generally changed from the present, desirable, that we aspire to fulfill.*
+
+Types of goals:
+
+1. Quantitative / Qualitative
+2. Complementary / Competing
+3. Indifferent / Main
+4. Secondary / etc.
