@@ -38,3 +38,30 @@ People are not born with talent or skills. They learn through repeated confronta
 *A problem is an emotional state. Without emotions, it is just a situation.*
 
 **Important:** In order to succeed, we must have a *clearly defined* goal in mind. I.e. **Know your goal.**
+
+## Learning Efficiency
+
+- *What do we already know?*
+- *What do we not know yet?*
+
+**Important:** I have to fail first in order to succeed in the future, because it is an *unavoidable* and *essential* part of learning.
+
+## Learning Types
+
+### Passive Learning
+
+It only has an effectiveness rate of about 10%-30%.
+
+### Active Learning
+
+It has an effectiveness rate of 50%-75%.
+
+Active learning consists of discussing our entire process, results and findings with other people. That way we can see different points of view and results to compare with our own.
+
+**Important:** Information has a certain level of *quality,* therefore not all information is useful. Furthermore, some information can confuse us and disorient us completely. To discern which information is useful and which is not, we need to develop a *repertoire* and we do that by *practicing.*
+
+In order to stay *motivated,* we must recognize even the most minor of successes. That way, we will notice our own *progress.*
+
+*Progress is noticeable when the question that tortured us has lost its meaning.*
+
+**Important:** Take breaks in order to not burn out and allow the information you learn to have an effect. Otherwise, you will get stuck.
