@@ -143,3 +143,23 @@ Management techniques and methods for organization:
 2. Agile
 3. ToDo-Lists
 4. Bullet Journal, etc.
+
+## Focus
+
+Focus is a necessary and vital skill to have. Focus and attention are not the same thing.
+
+## Attention
+
+*It can be said that attention is the perception of a specific topic with a higher level of interest in order to gather specific data and information from it.*
+
+*Attention is influenced by your interests, needs, personal attitudes, beliefs, orientations, goals, and experiences.*
+
+**Important:** Knowing how to divide your attention is crucial.
+
+## Comfort
+
+*Comfort is an emotional state of a person's mind, which, among other aspects, has a strong influence on behavior, thinking, focus, attention, and the ability to concentrate. This is the feeling of well-being in the form of comfort and the attitude of risk-free behavior.*
+
+**Important:** A comfort zone is where a person *thinks* they are located.
+
+*When we leave the so-called comfort zone, we enter a situation or field where we have little or no experience. This kind of uncertainty lowers our ability to think and has a powerful impact on our thought processes, which, in turn, slows us down.*
