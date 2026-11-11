@@ -100,3 +100,46 @@ Types of goals:
 2. Complementary / Competing
 3. Indifferent / Main
 4. Secondary / etc.
+
+## Decision Making
+
+Decisions can be influenced by emotions.
+
+### The Trolley Problem
+
+*The Trolley Problem is a thought experiment in which three different scenarios have occupied many philosophers, psychologists, and legal scholars for decades.*
+
+No one has set our limitations in terms of decisions we could take. We have to, once again, "think outside the box" and come up with a different solution to the problem than the two suggested ones.
+
+## Documentation
+
+*When it comes to documentation, we must first determine the report audience.*
+
+The essential characteristics of documentation:
+
+1. Overview
+2. Structure
+3. Clarity
+
+Guidelines:
+
+1. *It is beneficial to put ourselves in the position of our readers. This will make it much easier for us to design the documentation.*
+2. *Avoid repetition and ambiguity.*
+3. *Make documentation as easy to read as possible. No one wants to read the documentation that is difficult to understand or follow.*
+
+## Organization
+
+*Being organized is significant in penetration testing because the entire report writing process has to be structured.*
+
+```
+An inexperienced woodcutter takes 30 minutes to sharpen his axe and 3 hours to cut down the tree.
+
+The experienced one will sharpen the axe for 3 hours and cut down the tree within 30 minutes.
+```
+
+Management techniques and methods for organization:
+
+1. Scrum
+2. Agile
+3. ToDo-Lists
+4. Bullet Journal, etc.
