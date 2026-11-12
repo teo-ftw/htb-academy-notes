@@ -163,3 +163,95 @@ Focus is a necessary and vital skill to have. Focus and attention are not the sa
 **Important:** A comfort zone is where a person *thinks* they are located.
 
 *When we leave the so-called comfort zone, we enter a situation or field where we have little or no experience. This kind of uncertainty lowers our ability to think and has a powerful impact on our thought processes, which, in turn, slows us down.*
+
+## Obstacles
+
+### Fear
+
+*People are often afraid of something new, of something they do not know, and cannot evaluate if it could harm them somehow. There are many different types of fear. For us, however, only two are relevant for the time being. First, we need to distinguish between fear in dangerous situations and interpreted fear for the learning process.*
+
+*People fear what might happen in the future while not considering the present.*
+
+**Important:** *The difference between a winner and a loser is that the winner has lost more often than the loser.*
+
+### Mindset
+
+- I cannot do this
+- This is not for me
+- I do not understand this
+- etc.
+
+*The only thing we have to do is add the word "yet."*
+
+- I cannot do this **(yet)**
+- This is not for me **(yet)**
+- I do not understand this **(yet)**
+- etc.
+
+### Pressure
+
+*Pressure can also be described as mental stress, the totality of all detectable external and internal influences.*
+
+## Questioning
+
+**Important:** Asking the right questions is a critical skill to have.
+
+### Question States
+
+There are no "good" or "bad" questions.
+
+Actual question states:
+
+- *Rough* questions
+- *Precise* questions
+
+### Questions in General
+
+*Questions are an essential part of the thinking process in which links are created between information nodes in our brain. Thus, it is also a fixed and unavoidable part of the learning process. Removing questions, therefore, also reduces the learning process enormously.*
+
+Every question is built on three aspects:
+
+1. Origin
+2. Process
+3. Result/Goal
+
+*A question is a sentence worded or expressed to elicit information.*
+
+*A sentence is a set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command, and consisting of a main clause and sometimes one or more subordinate clauses.*
+
+### Relationship-Oriented-Questioning Model
+
+Components:
+
+1. Your Position
+2. The Object
+3. Known
+4. Unknown
+5. Other Position(s)
+
+### Practice
+
+After 5 to 10 times of using the model, we will start using it subconsciously.
+
+*A right question is a precise question that allows us to establish the relationships between the components, to understand them, and to take us one step further to the required answer.*
+
+## Handling Frustration
+
+*Frustration is an emotional reaction to an event, situation, or condition that occurs in the form of disappointment or powerlessness.*
+
+Types:
+
+- external influences
+- inner frustration
+
+In order to achieve success, we need:
+
+- vision
+- skills
+- incentives
+- resources
+- action plan
+
+## Learning Progress
+
+*An important aspect to be considered in the learning process is progress. In order to see our progress, two specific states are compared, including a specific time window between the learning process. In other words, we compare our knowledge from the past with the present and try to keep track of the progress to give ourselves the confirmation that we have achieved something new.*
