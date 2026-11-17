@@ -84,3 +84,18 @@ Benefits:
 6. Shorter provisioning times for systems and applications
 7. Simplified management of virtual systems
 8. Higher availability of VMs due to independence from physical resources
+
+## Linux
+
+**Important:** Linux is the most widely used Operating System for penetration testing.
+
+### Penetration Testing Distributions
+
+The most popular:
+
+1. Kali Linux
+2. Black Arch
+3. ParrotOS
+4. BackBox
+
+**Note:** In the rest of this section I installed ParrotOS on a VirtualBox VM with LUKS encryption.
