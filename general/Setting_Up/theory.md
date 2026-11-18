@@ -109,3 +109,17 @@ Windows is the best Operating System target for aspiring penetration testers.
 *Backups and recovery mechanisms are one of the most important safeguards against data loss, system compromise and business interruption.*
 
 **The 3-2-1 rule:** 3 copies of your data, 2 on different devices, 1 offsite.
+
+## VPS Providers
+
+**Important:** A Virtual Private Server (VPS) is an isolated environment created on a physical server using virtualization technology.
+
+VPS use examples:
+
+- webserver
+- development server
+- vpn
+- pentesting
+- proxy server (!)
+- code repository
+- etc.
