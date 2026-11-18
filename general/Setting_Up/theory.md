@@ -99,3 +99,13 @@ The most popular:
 4. BackBox
 
 **Note:** In the rest of this section I installed ParrotOS on a VirtualBox VM with LUKS encryption.
+
+## Windows
+
+Windows is the best Operating System target for aspiring penetration testers.
+
+## Backups and Recovery
+
+*Backups and recovery mechanisms are one of the most important safeguards against data loss, system compromise and business interruption.*
+
+**The 3-2-1 rule:** 3 copies of your data, 2 on different devices, 1 offsite.
